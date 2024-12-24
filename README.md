@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/academies/159)
 ## Mulailah perjalanan karirmu sebagai seorang Flutter developer dari sini. Materi disusun oleh Dicoding sebagai Google Developers Authorized Training Partner.
 ![MFDP](https://dicodingacademy.blob.core.windows.net/academies/2020032408493360917aaa6b705617c0c638c61c73680e.jpg)
@@ -38,3 +39,6 @@ Kelas ini membahas komponen dasar yang dibutuhkan untuk membuat aplikasi mobile 
 - Android Studio atau Visual Studio Code. Cara instalasi akan diajarkan pada kelas ini.
 
 Ikuti kelas [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/academies/159) di Dicoding Indonesia
+=======
+# UAS_pemograman
+>>>>>>> f2958e957acebb91ef74580b9066d4b4bb55dcb7
